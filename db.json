@@ -1,0 +1,279 @@
+{
+  "products": [
+    {
+      "title": "Iphone 14 pro",
+      "price": 51000,
+      "description": "Iphone 14 pro 256 gb",
+      "category": "smartphones",
+      "images": [
+        "https://img.mta.ua/image/cache/data/foto/z671/671723/photos/Apple-iPhone-14-Pro-256GB-33-Purple-01-600x600.jpg",
+        "https://img.mta.ua/image/cache/data/foto/z671/671723/photos/Apple-iPhone-14-Pro-256GB-33-Purple-01-600x600.jpg",
+        "https://img.mta.ua/image/cache/data/foto/z671/671723/photos/Apple-iPhone-14-Pro-256GB-33-Purple-01-600x600.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Iphone 13",
+      "price": 31000,
+      "description": "Iphone 13 128gb",
+      "category": "smartphones",
+      "images": [
+        "https://img0.istores.sk/iphone-13-128-gb-modry-galeria1-big_ies5169548.jpg",
+        "https://img0.istores.sk/iphone-13-128-gb-modry-galeria1-big_ies5169548.jpg",
+        "https://img0.istores.sk/iphone-13-128-gb-modry-galeria1-big_ies5169548.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Samsung A54",
+      "price": 15000,
+      "description": "Samsung Galaxy A54 6/128gb",
+      "category": "smartphones",
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/sk/sm-a546blgdeue/gallery/sk-galaxy-a54-5g-sm-a546-sm-a546blgdeue-535775713?$650_519_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/sk/sm-a546blgdeue/gallery/sk-galaxy-a54-5g-sm-a546-sm-a546blgdeue-535775713?$650_519_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/sk/sm-a546blgdeue/gallery/sk-galaxy-a54-5g-sm-a546-sm-a546blgdeue-535775713?$650_519_PNG$"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Xiaomi Redmi Note 10 Pro",
+      "price": 12000,
+      "description": "Xiaomi Redmi Note 10 Pro 8/128gb",
+      "category": "smartphones",
+      "images": [
+        "https://xm.sk/data/tmp/3/5/44945_3.jpg?1635949888_1",
+        "https://xm.sk/data/tmp/3/5/44945_3.jpg?1635949888_1",
+        "https://xm.sk/data/tmp/3/5/44945_3.jpg?1635949888_1"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Apple Watch SE(2023) 44mm",
+      "price": 12000,
+      "description": "Apple Watch SE(2023)",
+      "category": "watches",
+      "images": [
+        "https://im9.cz/sk/iR/importprodukt-orig/d2b/d2b007c1b2ca055482a711a11f751209--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/d2b/d2b007c1b2ca055482a711a11f751209--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/d2b/d2b007c1b2ca055482a711a11f751209--mmf350x350.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Apple Watch Ultra 2",
+      "price": 40000,
+      "description": "Apple Watch Ultra 2",
+      "category": "watches",
+      "images": [
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339708_sd.jpg",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339708_sd.jpg",
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339708_sd.jpg"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Apple Watch Series 9 45mm",
+      "price": 19000,
+      "description": "Apple Watch Series 9 45mm",
+      "category": "watches",
+      "images": [
+        "https://im9.cz/sk/iR/importprodukt-orig/e05/e05e16ed8c60a461e5ed7da4c6a69ec5--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/e05/e05e16ed8c60a461e5ed7da4c6a69ec5--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/e05/e05e16ed8c60a461e5ed7da4c6a69ec5--mmf350x350.jpg"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Apple MacBook Air M1",
+      "price": 42000,
+      "description": "Apple MacBook Air M1",
+      "category": "laptops",
+      "images": [
+        "https://im9.cz/sk/iR/importprodukt-orig/c91/c91e6bb8337cc2fe1353afbe64c9ff94.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/c91/c91e6bb8337cc2fe1353afbe64c9ff94.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/c91/c91e6bb8337cc2fe1353afbe64c9ff94.jpg"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Apple MacBook Air M2 13",
+      "price": 53000,
+      "description": "Apple MacBook Air M2 13",
+      "category": "laptops",
+      "images": [
+        "https://im9.cz/sk/iR/importprodukt-orig/a53/a53f169c5533b4bc7ce378482866d9ef--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/a53/a53f169c5533b4bc7ce378482866d9ef--mmf350x350.jpg",
+        "https://im9.cz/sk/iR/importprodukt-orig/a53/a53f169c5533b4bc7ce378482866d9ef--mmf350x350.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "title": "Apple MacBook Pro 14 M3",
+      "price": 80000,
+      "description": "Apple MacBook Pro 14 M3",
+      "category": "laptops",
+      "images": [
+        "https://www.bhphotovideo.com/images/images2500x2500/apple_mrx33ll_a_14_macbook_pro_with_1793624.jpg",
+        "https://www.bhphotovideo.com/images/images2500x2500/apple_mrx33ll_a_14_macbook_pro_with_1793624.jpg",
+        "https://www.bhphotovideo.com/images/images2500x2500/apple_mrx33ll_a_14_macbook_pro_with_1793624.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "title": "iPad Air 4 10.9",
+      "price": 32000,
+      "description": "iPad Air 4 10.9",
+      "category": "tablets",
+      "images": [
+        "https://istyle.sk/media/catalog/product/i/p/ipad_air_wi-fi_purple_pdp_image_position-1b__wwen.jpg",
+        "https://istyle.sk/media/catalog/product/i/p/ipad_air_wi-fi_purple_pdp_image_position-1b__wwen.jpg",
+        "https://istyle.sk/media/catalog/product/i/p/ipad_air_wi-fi_purple_pdp_image_position-1b__wwen.jpg"
+      ],
+      "id": 11
+    },
+    {
+      "title": "Apple iPad mini 256GB",
+      "price": 40000,
+      "description": "Apple iPad mini 256GB",
+      "category": "tablets",
+      "images": [
+        "https://doc.smarty.sk/pic/H8QKF00101-600-600.jpg",
+        "https://doc.smarty.sk/pic/H8QKF00101-600-600.jpg",
+        "https://doc.smarty.sk/pic/H8QKF00101-600-600.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "title": "iPad Pro 12.9 128GB",
+      "price": 60000,
+      "description": "iPad Pro 12.9 128GB",
+      "category": "tablets",
+      "images": [
+        "https://cdn.myshoptet.com/usr/www.dronerepublic.sk/user/shop/big/8643_ipad-pro-12-9-wi-fi-256gb-space-gray-2022-ie7551191.jpg?63c9426b",
+        "https://cdn.myshoptet.com/usr/www.dronerepublic.sk/user/shop/big/8643_ipad-pro-12-9-wi-fi-256gb-space-gray-2022-ie7551191.jpg?63c9426b",
+        "https://cdn.myshoptet.com/usr/www.dronerepublic.sk/user/shop/big/8643_ipad-pro-12-9-wi-fi-256gb-space-gray-2022-ie7551191.jpg?63c9426b"
+      ],
+      "id": 13
+    },
+    {
+      "title": "Apple iPhone Power Adapter 20W",
+      "price": 1000,
+      "description": "Apple iPhone Power Adapter 20W",
+      "category": "Charge",
+      "images": [
+        "https://c.dns-shop.ru/thumb/st1/fit/300/300/58b3219492ae4801270e11f2efd99e6b/da7f2d79130bda6d1fc595b4607d3a2c03dd18add9a584da903c804585912f4e.jpg",
+        "https://c.dns-shop.ru/thumb/st1/fit/300/300/58b3219492ae4801270e11f2efd99e6b/da7f2d79130bda6d1fc595b4607d3a2c03dd18add9a584da903c804585912f4e.jpg",
+        "https://c.dns-shop.ru/thumb/st1/fit/300/300/58b3219492ae4801270e11f2efd99e6b/da7f2d79130bda6d1fc595b4607d3a2c03dd18add9a584da903c804585912f4e.jpg"
+      ],
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "",
+      "visibleName": "Категорія",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "",
+      "visibleName": "Всі товари",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "smartphones",
+      "visibleName": "Смартфони",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "watches",
+      "visibleName": "Годиники",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "laptops",
+      "visibleName": "Ноутбуки",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "tablets",
+      "visibleName": "Планшети",
+      "image": ""
+    },
+    {
+      "name": "Charge",
+      "visibleName": "Зарядний пристрій",
+      "image": "https://activ.kz/shop/media/products/Samsung_25W_Travel_Adapter_USB_Type-C_White.jpg",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "palkovlad64@gmail.com",
+      "password": "R16R74Rr",
+      "name": "stick",
+      "role": "admin",
+      "avatar": "https://static.wikia.nocookie.net/theforest_gamepedia/images/7/70/UpgradedStickFarket.png/revision/latest?cb=20171002132132",
+      "basket": {
+        "item": [
+          {
+            "id": 2,
+            "title": "Iphone 13",
+            "img": "https://img0.istores.sk/iphone-13-128-gb-modry-galeria1-big_ies5169548.jpg",
+            "price": 31000,
+            "col": 1
+          },
+          {
+            "id": 3,
+            "title": "Samsung A54",
+            "img": "https://images.samsung.com/is/image/samsung/p6pim/sk/sm-a546blgdeue/gallery/sk-galaxy-a54-5g-sm-a546-sm-a546blgdeue-535775713?$650_519_PNG$",
+            "price": 15000,
+            "col": 1
+          }
+        ]
+      },
+      "history": {
+        "Sun Dec 24 2023 22:24:49 GMT+0100 (Центральная Европа, стандартное время)": {
+          "0": {
+            "id": 1,
+            "title": "Iphone 14 pro",
+            "img": "https://img.mta.ua/image/cache/data/foto/z671/671723/photos/Apple-iPhone-14-Pro-256GB-33-Purple-01-600x600.jpg",
+            "price": 51000,
+            "col": 3
+          }
+        },
+        "Sun Dec 24 2023 22:50:40 GMT+0100 (Центральная Европа, стандартное время)": {
+          "0": {
+            "id": 2,
+            "title": "Iphone 13",
+            "img": "https://img0.istores.sk/iphone-13-128-gb-modry-galeria1-big_ies5169548.jpg",
+            "price": 31000,
+            "col": 1
+          },
+          "1": {
+            "id": 7,
+            "title": "Apple Watch Series 9 45mm",
+            "img": "https://im9.cz/sk/iR/importprodukt-orig/e05/e05e16ed8c60a461e5ed7da4c6a69ec5--mmf350x350.jpg",
+            "price": 19000,
+            "col": 1
+          },
+          "2": {
+            "id": 11,
+            "title": "iPad Air 4 10.9",
+            "img": "https://istyle.sk/media/catalog/product/i/p/ipad_air_wi-fi_purple_pdp_image_position-1b__wwen.jpg",
+            "price": 32000,
+            "col": 1
+          }
+        }
+      },
+      "id": 1,
+      "GeneralsumInBasket": 46000
+    }
+  ]
+}
